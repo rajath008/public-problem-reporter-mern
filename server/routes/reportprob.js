@@ -40,7 +40,7 @@ router.post("/", async (req, res) => {
   //   .post("http://localhost:7000/api/uploadimg/", { file: req.file })
   //   .then((result) => {
   //     url = result.data.url;
-  //     console.log(url);
+  //     console.log(url)  ;
   //     res.send("result");
   //   });
   let id;
